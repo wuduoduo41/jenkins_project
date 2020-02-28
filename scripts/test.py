@@ -11,7 +11,7 @@ class Test:
 
     def test02(self):
         print('2')
-        assert 1
+        assert 0
 
     def test03(self):
         print('3')
